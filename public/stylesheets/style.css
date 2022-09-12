@@ -1,0 +1,39 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  text-align: center;
+  background-color: rgb(243, 217, 242);
+}
+
+a {
+  color: #3e4a80;
+}
+.violeta{
+  background-color: violet;
+}
+.azul {
+  background-color: blue;
+}
+.rosa1{
+  background-color: rosybrown;
+}
+.rosa2 {
+  background-color: hotpink;
+}
+
+.amarillo {
+  background-color: yellow;
+}
+
+.verde {
+  background-color: green;
+}
+
+form {
+  width: 50%;
+  max-width: 600px;
+  margin: auto auto;
+  border: 1px solid black;
+  padding: 10px;
+  border-radius: 30px;
+}
